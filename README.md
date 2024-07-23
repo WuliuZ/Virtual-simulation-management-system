@@ -1,19 +1,5 @@
-# zj-vue001
+# 虚拟仿真管理平台
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 主要功能
+1、用户登录注册
+2、对于用户、角色、实训课程、课程、实验设备、实验室进行管理，包括增删改查
